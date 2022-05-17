@@ -6,4 +6,4 @@ server:
   port: 8081
 logging:
   file:
-    name: ./elk-demo-logs/elk-stack.log
+    name: ./logs/elk-stack.log
