@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: ELK-DEMO-APP
+
+server:
+  port: 8081
+logging:
+  file:
+    name: C:/Users/ssmtariq/Desktop/elk-demo-logs/elk-stack.log
